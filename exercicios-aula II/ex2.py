@@ -1,4 +1,4 @@
-# Exercício 3 - Valor em horas transformado para minutos
+# Exercício 2 - Valor em horas transformado para minutos
 horas = int(input("Digite que horas são (sem os minutos): "))
 minutos = horas * 60
 

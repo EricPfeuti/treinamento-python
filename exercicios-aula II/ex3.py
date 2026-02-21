@@ -1,4 +1,4 @@
-# Exercício 4 - Valor Prestação em Atraso
+# Exercício 3 - Valor Prestação em Atraso
 valorPrestacao = float(input("Digite o valor da prestação (R$): "))
 multa = int(input("Digite a porcentagem de multa pelo atraso (%): "))
 qtdeDias = int(input("Digite a quantidade de dias de atraso: "))
